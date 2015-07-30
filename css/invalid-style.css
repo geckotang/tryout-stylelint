@@ -1,0 +1,33 @@
+.module-1{
+  margin : 0px;
+  opacity:1;
+  transition: .5s all linear;
+  left: 1.0px;
+  line-height: 1.50;
+}
+.module-1 .module__text-1 {
+  border: 1px solid red;
+}
+  .module-1 .module__text-1 a{
+    display: block;
+  }
+
+.module-2 {background-color: tomato; }
+
+.module-3 { background-color: lime;}
+
+.module-4 {
+  color: #FFFFFF;
+  color: #000000;
+  color: #eee;
+}
+
+.module-5 {
+  background-color: tomato!important;
+  background-color: limegreen ! important;
+}
+
+.module-6 {
+  background-image: url("hoge.jpg");
+  background-image: url('fuga.jpg');
+}

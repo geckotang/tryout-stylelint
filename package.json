@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {
+    "csslint": "gulp css"
+  },
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-postcss": "^5.1.10",
+    "postcss-reporter": "^0.3.1",
+    "stylelint": "^0.4.1"
+  }
+}
